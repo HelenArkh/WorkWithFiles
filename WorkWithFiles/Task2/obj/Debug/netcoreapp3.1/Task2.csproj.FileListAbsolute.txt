@@ -1,0 +1,13 @@
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+D:\VS_Projects\WorkWithFiles\WorkWithFiles\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache

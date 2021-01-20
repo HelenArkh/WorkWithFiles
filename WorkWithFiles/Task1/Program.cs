@@ -23,13 +23,13 @@ namespace Task1
 
                     foreach (FileInfo f in dirInfo.GetFiles())
                     {
-                        if ((DateTime.Now - f.LastAccessTime) > TimeSpan.FromMinutes(30))
+                       if ((DateTime.Now - f.LastAccessTime) > TimeSpan.FromMinutes(30))
                             f.Delete();
                     }
 
                     foreach (DirectoryInfo d in dirInfo.GetDirectories())
                     {
-                        if ((DateTime.Now - d.LastAccessTime) > TimeSpan.FromMinutes(30))
+                       if ((DateTime.Now - d.LastAccessTime) > TimeSpan.FromMinutes(30))
                             d.Delete(true);
                     }
                 }
